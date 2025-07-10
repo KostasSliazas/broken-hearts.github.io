@@ -14,7 +14,7 @@
 
 ## Description
 
-shooting game
+shooting game for fun and experiments.
 ## Contributing
 
 To contribute, please fork this repository, create a new branch, and submit a pull request.
